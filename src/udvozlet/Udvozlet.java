@@ -15,8 +15,8 @@ public class Udvozlet {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Ember no = new Ember("Gabi");
-       Ember ferfi = new Ember("Zoltán");
+       Ember no = new Ember("Éva");
+       Ember ferfi = new Ember("Sanyi");
        
        System.out.println(no.koszont());
        System.out.println(ferfi.koszont());
